@@ -1,0 +1,17 @@
+body {
+    background-color: #fff;
+    font-family: Arial, sans-serif;
+}
+
+.sidebar {
+    min-height: 100vh;
+    border-right: 1px solid #ddd;
+}
+
+.table td, .table th {
+    vertical-align: middle;
+}
+
+.table img {
+    object-fit: cover;
+}
